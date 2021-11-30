@@ -1,2 +1,2 @@
 # CRUD-basic
-CRUD php native tugas sekoloa
+CRUD php native tugas sekolah
